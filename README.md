@@ -1,4 +1,4 @@
-# Movie-seat-booking
+# Movie seat booking
 
 En este simple projecto creo una aplicacion que simula la selección de butacas al momento de comprar una entrada para el cine.
 
