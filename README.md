@@ -6,5 +6,5 @@ In this simple project, I create an application that simulates the seat selectio
 
 En este projecto se utilizó HTML, CSS y JavaScript
 
-Live version / Version funcionando
+Live version / Version activa
 https://alexbalay.github.io/Movie-seat-booking/
